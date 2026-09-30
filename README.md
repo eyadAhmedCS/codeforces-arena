@@ -4,6 +4,13 @@ A structured repository containing my solutions to various **Codeforces** proble
 
 ---
 
+## 🛠️️ Languages & Tools
+Primary Language: Java
+
+Platform: Codeforces
+
+Environment: VS Code
+
 ## 📁 Repository Structure
 
 The repository is categorized directly by difficulty level (`A/`, `B/`, `C/`, etc.). Inside each folder, problems are stored directly as individual files named after the problem, contest ID, and division.
@@ -23,9 +30,4 @@ The repository is categorized directly by difficulty level (`A/`, `B/`, `C/`, et
 │   └── ...
 └── README.md
 
-## 🛠️️ Languages & Tools
-Primary Language: Java
 
-Platform: Codeforces
-
-Environment: VS Code
